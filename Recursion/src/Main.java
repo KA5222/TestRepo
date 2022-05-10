@@ -4,6 +4,7 @@ public class Main {
 	public static void main(String[] args) {
 		int n = 5;
 		System.out.println(result(n));
+		System.out.println("test");
 
 	}
 
